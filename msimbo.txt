@@ -1,0 +1,12 @@
+<<<<<<< HEAD
+This is my first training on git commands
+Day Two of Training
+Things covered are : git its command: git init, git status, git log, git show, git checkout..git push
+We also saw how to save a local repository to github(i.e how to push the reporisory by copy paste the code)
+All our work will be done in git and stored on github.
+=======
+Day Two of Training
+Things covered are : git its command: git init, git status, git log, git show, git checkout..git push
+We also saw how to save a local repository to github(i.e how to push the reporisory by copy paste the code)
+All our work will be done in git and stored on github.
+>>>>>>> f02000257a4cd498b682116e8e06aa3fec96e96c
