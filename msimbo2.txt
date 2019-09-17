@@ -4,3 +4,4 @@ you almost repeat the same procedure of creating reporsitory
 1. git add .(. mean everything)
 2.git commit -m "your message" to save your change and document them.
 3.git push to push it to your github.
+And so on..
